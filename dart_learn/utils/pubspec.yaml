@@ -1,0 +1,10 @@
+name: dart_learn
+description: a libraries
+
+# 依赖的第三方库
+dependencies:
+  http: ^0.13.5
+
+# Dart SDK 的 版本
+environment:
+  sdk: '^2.12.0'
